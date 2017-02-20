@@ -5,3 +5,5 @@ LAB 2 - C program to draw a stick man using Bresenham’s line drawing and mid-p
 LAB 3 - C program to draw a stick man riding a cycle using basic 2D transformations such as translation, rotation and scaling
 LAB 3 - C program to perform basic 2D transformations for a pentagon
 LAB 4 - C program to draw a house and perform 2D transformations such as reflection and shear
+LAB 5 - C program to draw a house in 3D and perform transformations such as reflection and shear
+LAB 6 - C program for clipping a given line against a given rectangular window using Cohen Sutherland method, Liang Barsky method.
